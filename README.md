@@ -8,3 +8,5 @@ https://academy.rapidminer.com/
 2. https://www.wscubetech.com/machine-learning-mcq-quiz.html
 3. https://www.interviewbit.com/machine-learning-mcq/
 4. https://onlineexammaker.com/kb/30-machine-learning-quiz-questions-and-answers/
+
+Download certificate after assessment : https://aicte-internship.eduskillsfoundation.org/pages/home/
